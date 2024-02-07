@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://tolu-faq-accordion.vercel.app/)]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://tolu-faq-accordion.vercel.app/)
+- Live Site URL: (https://github.com/Tolulope-as/faq-accordion.git)
 
 ## My process
 - I had to first go over the design multiple times then when i was understood the design
