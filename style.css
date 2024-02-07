@@ -5,7 +5,7 @@ body{
     width:100%;  
     position: relative;
     background-color:hsl(275, 100%, 97%);
-   background-size:100%;
+   background-size:90em;
 background-repeat:no-repeat;
    background-image: url(assets/images/background-pattern-desktop.svg);
 }
@@ -198,16 +198,14 @@ hr{
     margin-top: 0;
     
 }
-@media screen and (max-width:768px){
-body{
-background-size:100%;
+@media screen and (max-width:400px){
+  body{
+background-size:cover;
 background-repeat:no-repeat;
 background-image: url(assets/images/background-pattern-mobile.svg);
- 
-   
-
-    
+ }
 }
+@media screen and (max-width:768px){
 .faqs-box{
     top: 150px;
     left: 8%;
