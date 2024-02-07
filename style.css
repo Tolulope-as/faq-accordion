@@ -87,12 +87,7 @@ hr{
     line-height: 25px;
     margin-top: 0;
 }
-@media screen and (max-width:400px){
-    body{
-        background-image: url(assets/images/background-pattern-mobile.svg);
-        background-size:cover;  
-    }
-}
+
 @media screen and (max-width:768px){
     
 .faqs-box{
@@ -100,4 +95,10 @@ hr{
     left: 8%;
     right: 8%;
 }
+}
+@media screen and (max-width:400px){
+    body{
+        background-image: url(assets/images/background-pattern-mobile.svg);
+        background-size:cover;  
+    }
 }
