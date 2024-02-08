@@ -102,3 +102,10 @@ hr{
         background-size:cover;  
     }
 }
+@media screen and (min-width:1440px){
+   body{
+       background-size:100%;
+   } 
+}
+
+    
